@@ -1,2 +1,7 @@
 'ismael'
+<<<<<<< HEAD
 sub/
+=======
+*.log
+samuel
+>>>>>>> refs/remotes/origin/main
